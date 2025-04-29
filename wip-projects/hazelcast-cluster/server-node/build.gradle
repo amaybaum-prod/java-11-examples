@@ -40,7 +40,7 @@ dependencies {
    implementation 'org.slf4j:slf4j-simple:1.7.30'
    implementation 'com.hazelcast:hazelcast:3.10.4'
 
-   testImplementation 'org.testng:testng:7.3.0'
+   testImplementation 'org.testng:testng:7.4.0'
 }
 
 test {
