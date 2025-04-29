@@ -32,7 +32,7 @@ dependencies {
    implementation 'com.lightbend.akka.management:akka-management-cluster-http_2.12:1.0.1'
    implementation 'com.lightbend.akka.management:akka-management-cluster-bootstrap_2.12:1.0.1'
 
-   implementation 'com.google.guava:guava:28.0-jre'
+   implementation 'com.google.guava:guava:32.0.1-android'
    implementation 'org.apache.sshd:sshd-core:2.2.0'
    implementation 'com.beust:jcommander:1.78'
 
