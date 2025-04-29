@@ -24,7 +24,7 @@ dependencies {
 
    implementation 'com.typesafe.akka:akka-actor_2.12:2.5.23'
    implementation 'com.typesafe.akka:akka-cluster_2.12:2.5.23'
-   implementation 'com.typesafe.akka:akka-remote_2.12:2.5.23'
+   implementation 'com.typesafe.akka:akka-remote_2.12:2.6.0'
    implementation 'com.typesafe.akka:akka-cluster-tools_2.12:2.5.23'
    implementation 'com.typesafe.akka:akka-discovery_2.12:2.5.21'
 
