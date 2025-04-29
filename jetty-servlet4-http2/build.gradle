@@ -44,7 +44,7 @@ dependencies {
    implementation "org.eclipse.jetty:jetty-alpn-java-server:${jettyVersion}"
    implementation "org.eclipse.jetty:jetty-alpn-java-client:${jettyVersion}"
 
-   implementation "com.fasterxml.jackson.core:jackson-databind:2.10.1"
+   implementation "com.fasterxml.jackson.core:jackson-databind:2.12.7.1"
    implementation "javax.xml.bind:jaxb-api:2.3.1"
 
    implementation "org.glassfish.jersey.core:jersey-server:${jerseyVersion}"
