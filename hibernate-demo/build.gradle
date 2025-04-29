@@ -14,7 +14,7 @@ dependencies {
    implementation 'org.slf4j:slf4j-api:1.7.30'
    implementation 'org.slf4j:slf4j-simple:1.7.30'
    implementation 'org.hibernate:hibernate-core:5.4.14.Final'
-   implementation 'org.postgresql:postgresql:42.2.12'
+   implementation 'org.postgresql:postgresql:42.2.26.jre6'
 
    testImplementation 'org.apache.derby:derby:10.15.2.0'
    testImplementation 'org.apache.derby:derbytools:10.15.2.0'
