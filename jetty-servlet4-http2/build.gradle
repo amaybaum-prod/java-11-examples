@@ -10,7 +10,7 @@ sourceCompatibility = 11
 targetCompatibility = 11
 
 def jettyVersion = '9.4.26.v20200117'
-def jerseyVersion = '2.30'
+def jerseyVersion = '2.34'
 def slf4jVersion = '1.7.30'
 
 repositories {
