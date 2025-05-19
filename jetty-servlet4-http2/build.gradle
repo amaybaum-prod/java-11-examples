@@ -9,7 +9,7 @@ applicationDefaultJvmArgs = ["-Xms64M", "-Xmx64M" ]
 sourceCompatibility = 11
 targetCompatibility = 11
 
-def jettyVersion = '9.4.26.v20200117'
+def jettyVersion = '9.4.57.v20241219'
 def jerseyVersion = '2.30'
 def slf4jVersion = '1.7.30'
 
